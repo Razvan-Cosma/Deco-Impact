@@ -1258,7 +1258,7 @@ font-size: 14px;
     .footer__left-right-side{
     flex-direction: column;
     align-items: baseline;
-    margin-left: -45px;
+    margin-left: -50px;
     }
   }
 }
