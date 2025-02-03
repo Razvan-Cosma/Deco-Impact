@@ -1243,7 +1243,7 @@ font-size: 14px;
     margin-left: auto;
   }
 }
-
+/*Code*/
 @media screen and (min-width: 1200px) {
   .services-list-right {
     margin-top: 80px;
